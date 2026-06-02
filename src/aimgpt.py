@@ -101,3 +101,5 @@ class AIMGPT:
             Le contenu généré
         """
         return self.chat(prompt)
+def search_web(self, query):
+    return "Fonctionnalité de recherche web en développement..."
